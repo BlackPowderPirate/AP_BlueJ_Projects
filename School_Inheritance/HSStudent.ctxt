@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=HSStudent
+comment1.params=name\ address\ gender
+comment1.target=HSStudent(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment10.params=newMCAscore11
+comment10.target=void\ MCAscore11(int)
+comment11.params=
+comment11.target=int\ credits()
+comment12.params=newCredits
+comment12.target=void\ increaseCredits(int)
+comment2.params=name\ address\ gender\ grade
+comment2.target=HSStudent(java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment3.params=
+comment3.target=double\ GPA()
+comment4.params=newGPA\ newCredits
+comment4.target=void\ updateGPA(double,\ int)
+comment5.params=
+comment5.target=int\ ACTscore()
+comment6.params=newACTscore
+comment6.target=void\ ACTscore(int)
+comment7.params=
+comment7.target=int\ APclasses()
+comment8.params=newAPclasses
+comment8.target=void\ APclasses(int)
+comment9.params=
+comment9.target=int\ MCAscore11()
+numComments=13

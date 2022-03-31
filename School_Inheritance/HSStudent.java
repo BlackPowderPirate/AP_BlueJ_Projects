@@ -1,8 +1,8 @@
 
 public class HSStudent extends Student
 {
-    int GPA, ACTscore, APclasses, MCAscore11, credits;
-    
+    int ACTscore, APclasses, MCAscore11, credits;
+    double GPA;
     
     public HSStudent(String name,String address,String gender)
     {
@@ -16,11 +16,11 @@ public class HSStudent extends Student
         this.grade = grade;
     }
     
-    public int GPA() {
+    public double GPA() {
         return GPA;
     }
     
-    public void updateGPA(int newGPA, int newCredits) {
+    public void updateGPA(double newGPA, int newCredits) {
         GPA = ((newCredits*newGPA)+(credits*GPA))/(newCredits+credits);
         increaseCredits(newCredits);
     } 
