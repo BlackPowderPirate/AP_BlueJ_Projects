@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Employee
+comment1.params=
+comment1.target=java.lang.String\ name()
+comment2.params=newName
+comment2.target=void\ name(java.lang.String)
+comment3.params=newBenfits
+comment3.target=void\ setBenefits(boolean)
+comment4.params=newFullTime
+comment4.target=void\ setFullTime(boolean)
+comment5.params=
+comment5.target=double\ calculatePaycheck()
+comment6.params=
+comment6.target=double\ displayPaycheck()
+comment7.params=
+comment7.target=void\ printDetails()
+numComments=8

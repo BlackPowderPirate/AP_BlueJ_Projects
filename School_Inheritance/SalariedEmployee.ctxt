@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SalariedEmployee
+comment1.params=name\ salary
+comment1.target=SalariedEmployee(java.lang.String,\ double)
+comment2.params=
+comment2.target=double\ calculatePaycheck()
+comment3.params=
+comment3.target=void\ addHoursWorked()
+comment4.params=
+comment4.target=double\ displayPaycheck()
+comment5.params=
+comment5.target=void\ printDetails()
+numComments=6

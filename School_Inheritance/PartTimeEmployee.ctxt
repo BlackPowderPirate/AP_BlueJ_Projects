@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PartTimeEmployee
+comment1.params=name\ wagePerHour
+comment1.target=PartTimeEmployee(java.lang.String,\ int)
+comment2.params=
+comment2.target=void\ printDetails()
+numComments=3
